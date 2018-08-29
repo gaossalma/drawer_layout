@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">drawer_layout</string>
+    <array name="Gender">
+        <item>MALE</item>
+        <item>FEMALE</item>
+    </array>
+    <array name="country">
+        <item>INDONESIA</item>
+        <item>JEPANG</item>
+        <item>AUSTRALIA</item>
+        <item>BELANDA</item>
+        <item>CHINA</item>
+    </array>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail_berita">Detail_berita</string>
+</resources>
